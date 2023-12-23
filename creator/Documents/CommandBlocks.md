@@ -28,7 +28,7 @@ In this guide, we will set up a command block chain to look for a certain type o
 
 #### Setting the world up
 
-While command blocks can be used in any Minecraft world, we will be using a flat world for a simple and clean environment.
+While command blocks can be used in any <a href="[url](https://www.minecraftofficial.com/)">Minecraft </a> world, we will be using a flat world for a simple and clean environment.
 
 1. Launch Minecraft: Bedrock Edition.
 1. Select **Play**, select **Create New**, then select **Create New World**.
